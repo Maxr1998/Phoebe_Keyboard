@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 19)
+    (drawings 21)
     (tracks 1131)
     (zones 0)
     (modules 154)
@@ -6694,6 +6694,19 @@
     )
   )
 
+  (gr_line (start 133.35 96.52) (end 133.35 115.57) (layer Dwgs.User) (width 0.15))
+  (dimension 9.525 (width 0.15) (layer Dwgs.User)
+    (gr_text "9,525 mm" (at 138.1125 128.935) (layer Dwgs.User) (tstamp 5CBDF613)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (feature1 (pts (xy 133.35 115.57) (xy 133.35 128.221421)))
+    (feature2 (pts (xy 142.875 115.57) (xy 142.875 128.221421)))
+    (crossbar (pts (xy 142.875 127.635) (xy 133.35 127.635)))
+    (arrow1a (pts (xy 133.35 127.635) (xy 134.476504 127.048579)))
+    (arrow1b (pts (xy 133.35 127.635) (xy 134.476504 128.221421)))
+    (arrow2a (pts (xy 142.875 127.635) (xy 141.748496 127.048579)))
+    (arrow2b (pts (xy 142.875 127.635) (xy 141.748496 128.221421)))
+  )
   (gr_line (start 61.595 27.94) (end 61.595 28.575) (layer Edge.Cuts) (width 0.1) (tstamp 5CBD6C9C))
   (gr_line (start 71.755 27.94) (end 61.595 27.94) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 71.755 28.575) (end 71.755 27.94) (layer Edge.Cuts) (width 0.1))
