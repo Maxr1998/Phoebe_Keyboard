@@ -323,7 +323,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C1F8)
-    (fp_text reference SW13 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW13 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -359,7 +359,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C210)
-    (fp_text reference SW25 (at -4.445 0 180) (layer B.SilkS)
+    (fp_text reference SW25 (at -4.445 0 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -789,7 +789,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C228)
-    (fp_text reference SW37 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW37 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -825,7 +825,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C258)
-    (fp_text reference SW60 (at -4.445 0 180) (layer B.SilkS)
+    (fp_text reference SW60 (at -4.445 0 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -861,7 +861,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C256)
-    (fp_text reference SW59 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW59 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -897,7 +897,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C254)
-    (fp_text reference SW58 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW58 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -933,7 +933,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C252)
-    (fp_text reference SW57 (at -4.445 0 180) (layer B.SilkS)
+    (fp_text reference SW57 (at -4.445 0 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -969,7 +969,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C250)
-    (fp_text reference SW56 (at -4.445 0 180) (layer B.SilkS)
+    (fp_text reference SW56 (at -4.445 0 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1005,7 +1005,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C24C)
-    (fp_text reference SW55 (at -4.445 0 180) (layer B.SilkS)
+    (fp_text reference SW55 (at -4.445 0 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1041,7 +1041,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C24A)
-    (fp_text reference SW54 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW54 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1077,7 +1077,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C248)
-    (fp_text reference SW53 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW53 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1113,7 +1113,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C246)
-    (fp_text reference SW52 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW52 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1149,7 +1149,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C244)
-    (fp_text reference SW51 (at -4.445 0 180) (layer B.SilkS)
+    (fp_text reference SW51 (at -4.445 0 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1185,7 +1185,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C242)
-    (fp_text reference SW50 (at -4.445 0 180) (layer B.SilkS)
+    (fp_text reference SW50 (at -4.445 0 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1221,7 +1221,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C240)
-    (fp_text reference SW49 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW49 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1257,7 +1257,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C23E)
-    (fp_text reference SW48 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW48 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1293,7 +1293,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C23C)
-    (fp_text reference SW47 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW47 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1329,7 +1329,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C23A)
-    (fp_text reference SW46 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW46 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1365,7 +1365,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C238)
-    (fp_text reference SW45 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW45 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1401,7 +1401,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C236)
-    (fp_text reference SW44 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW44 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1437,7 +1437,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C234)
-    (fp_text reference SW43 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW43 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1473,7 +1473,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C232)
-    (fp_text reference SW42 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW42 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1509,7 +1509,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C230)
-    (fp_text reference SW41 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW41 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1545,7 +1545,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C22E)
-    (fp_text reference SW40 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW40 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1581,7 +1581,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C22C)
-    (fp_text reference SW39 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW39 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1617,7 +1617,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C22A)
-    (fp_text reference SW38 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW38 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1653,7 +1653,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C226)
-    (fp_text reference SW36 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW36 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1689,7 +1689,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C224)
-    (fp_text reference SW35 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW35 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1725,7 +1725,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C222)
-    (fp_text reference SW34 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW34 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1761,7 +1761,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C220)
-    (fp_text reference SW33 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW33 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1797,7 +1797,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C21E)
-    (fp_text reference SW32 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW32 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1833,7 +1833,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C21C)
-    (fp_text reference SW31 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW31 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1869,7 +1869,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C21A)
-    (fp_text reference SW30 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW30 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1905,7 +1905,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C218)
-    (fp_text reference SW29 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW29 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1941,7 +1941,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C216)
-    (fp_text reference SW28 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW28 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -1977,7 +1977,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C214)
-    (fp_text reference SW27 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW27 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2013,7 +2013,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C212)
-    (fp_text reference SW26 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW26 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2049,7 +2049,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C20E)
-    (fp_text reference SW24 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW24 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2085,7 +2085,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C20C)
-    (fp_text reference SW23 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW23 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2121,7 +2121,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C20A)
-    (fp_text reference SW22 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW22 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2157,7 +2157,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C208)
-    (fp_text reference SW21 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW21 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2193,7 +2193,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C206)
-    (fp_text reference SW20 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW20 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2229,7 +2229,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C204)
-    (fp_text reference SW19 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW19 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2265,7 +2265,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C202)
-    (fp_text reference SW18 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW18 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2301,7 +2301,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C200)
-    (fp_text reference SW17 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW17 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2337,7 +2337,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C1FE)
-    (fp_text reference SW16 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW16 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2373,7 +2373,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C1FC)
-    (fp_text reference SW15 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW15 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2409,7 +2409,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C1FA)
-    (fp_text reference SW14 (at -4.445 0 180) (layer B.SilkS)
+    (fp_text reference SW14 (at -4.445 0 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2445,7 +2445,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C1F6)
-    (fp_text reference SW12 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW12 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2481,7 +2481,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C1F4)
-    (fp_text reference SW11 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW11 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2517,7 +2517,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C1F2)
-    (fp_text reference SW10 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW10 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2553,7 +2553,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C1F0)
-    (fp_text reference SW9 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW9 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2589,7 +2589,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C1EE)
-    (fp_text reference SW8 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW8 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2625,7 +2625,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C1EC)
-    (fp_text reference SW7 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW7 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2661,7 +2661,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C1EA)
-    (fp_text reference SW6 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW6 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2697,7 +2697,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C1E8)
-    (fp_text reference SW5 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW5 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2733,7 +2733,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C1E6)
-    (fp_text reference SW4 (at -3.81 0 180) (layer B.SilkS)
+    (fp_text reference SW4 (at -3.81 0 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2769,7 +2769,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C1E4)
-    (fp_text reference SW3 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW3 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
@@ -2805,7 +2805,7 @@
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5C90C1E2)
-    (fp_text reference SW2 (at 0 8.3 180) (layer B.SilkS)
+    (fp_text reference SW2 (at 0 8.3 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value SW_Push (at 0 0 180) (layer F.SilkS) hide
