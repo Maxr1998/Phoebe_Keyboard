@@ -1,5 +1,6 @@
 # KiCAD backup files
 *.*bak
+pcb-backups/
 
 # Temporary files
 *-cache.lib
