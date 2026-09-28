@@ -1,3 +1,6 @@
+# IDE files
+.idea/
+
 # KiCAD backup files
 *.*bak
 pcb-backups/
